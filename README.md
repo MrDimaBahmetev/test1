@@ -8,4 +8,4 @@
 4. Установите зависимости (pip install -r requirements.txt)
 
 ## Use
-python main.py
+python main.py 
